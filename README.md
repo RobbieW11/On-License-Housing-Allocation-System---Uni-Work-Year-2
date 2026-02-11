@@ -1,0 +1,11 @@
+Use of:
+-  Enumerators.
+-  PySide6 - QtCore, Widgets & Dialogs.
+-  Faker to create fake data to test and debug code.
+-  Google Style Docstrings and comments.
+-  Concept of SQL functionality in real-world scenario.
+-  Inheritance.
+-  Polymorphism.
+-  Encapsulation.
+-  Type Hints.
+-  Ranking Logic.
